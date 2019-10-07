@@ -1,6 +1,6 @@
 {
   "name": "pm5",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "pm5 command line tool",
   "main": "./bin/pm5",
   "scripts": {
